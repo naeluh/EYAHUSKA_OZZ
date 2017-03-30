@@ -530,13 +530,6 @@ if(parser.pathname === '/new-products'){
 $('.banner').css('display','block');
 }
 
-
-
-
-
-
-
-
 //console.log(parser.pathname)
 window.onload = function(){
 /*
