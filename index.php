@@ -521,8 +521,6 @@ var img = document.getElementsByTagName('img');
 img[1].style.width = '100%'; 
 }
 
-
-
 if(parser.pathname !== '/new-products/'){
 $('.banner').css('display','none');
 }
