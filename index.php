@@ -532,6 +532,11 @@ $('.banner').css('display','block');
 
 
 
+
+
+
+
+
 //console.log(parser.pathname)
 window.onload = function(){
 /*
