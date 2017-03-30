@@ -12,7 +12,7 @@
 <!-- This is Squarespace. --><!-- ozz-nooryani -->
 <base href="">
 <meta charset="utf-8" />
-<title>EYAHUSKA EDITS</title>
+<title>Please fucking work</title>
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
 <link rel="canonical" href="http://www.eyahuska.com/"/>
 <meta property="og:site_name" content="EYAHUSKA"/>
